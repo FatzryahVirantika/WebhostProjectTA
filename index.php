@@ -90,7 +90,7 @@
 			</div>
 			
 			<div id="footer">
-				<p>copyright weshop 2016</p>
+				<p>copyright Fatzryah Virantika</p>
 			</div>
 			
 		</div>
