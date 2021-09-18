@@ -1,6 +1,6 @@
 <?php
 
-	define("BASE_URL", "http://localhost/weshop/");
+	define("BASE_URL", "http://webhostprojectta-env.eba-zq7zj7zc.us-east-1.elasticbeanstalk.com/");
 	
 	$arrayStatusPesanan[0] = "Menunggu Pembayaran";
 	$arrayStatusPesanan[1] = "Pembayaran Sedang Di Validasi";
